@@ -48,7 +48,7 @@ const [red1, orange1, yellow1, green1, blue1, , violet1] = colors
 
 
 // 6. But wait! Indigo is now feeling *super* left out. Let's only assign indigo using indg. 
-const [ , , , , , indigo1, ] = colors
+const [ , , , , , indg, ] = colors
 
 
 // Objects
